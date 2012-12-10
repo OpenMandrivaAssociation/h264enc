@@ -41,3 +41,10 @@ rm ./installed-docs/uninstall
 %doc ./installed-docs/*
 %{_bindir}/h264enc
 %{_mandir}/man1/h264enc.1*
+
+
+%changelog
+* Fri Nov 18 2011 Alexander Khrukin <akhrukin@mandriva.org> 9.4.1-1
++ Revision: 731594
+- imported package h264enc
+
