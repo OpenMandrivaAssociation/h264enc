@@ -1,6 +1,6 @@
 Name:		h264enc
-Version:	9.4.1
-Release:	2
+Version:	10.4.7
+Release:	1
 Summary:	An interactive menu-driven frontend for mencoder
 Group:		Sound
 License:	GPLv2
