@@ -4,7 +4,7 @@ Release:	1
 Summary:	An interactive menu-driven frontend for mencoder
 Group:		Sound
 License:	GPLv2
-URL:		http://h264enc.sourceforge.net/
+URL:		https://h264enc.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/project/h264enc/h264enc/%{name}-%{version}.tar.gz
 Requires:	mencoder
 BuildArch:	noarch
